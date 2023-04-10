@@ -1,0 +1,113 @@
+
+
+/* Google fotoğrafını ortala */
+.container{
+  display: block;
+  margin-top: 50px;
+  /* margin-left: 500px; */
+  margin-left: auto;
+  margin-right: auto;
+  /* Genişliği ortaladım */
+  width:fit-content;
+}
+
+/* input htmlyi büyüt */
+#lname{
+  font-size: 24px;
+  width: 480px;
+}
+
+
+
+/* Arama kutusu */
+.arama{
+  font-size: 20px;
+  text-align: center;
+  height: 135px;
+  background-color: rgb(241, 239, 239);
+  /* float:left; */
+}
+
+button{
+  font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .google{
+  align-items: center;
+
+  background-color: rgb(228, 228, 228);
+  justify-content: center;
+}
+.sagkutu{
+  align-items: center;
+
+  background-color: rgb(228, 228, 228);
+  justify-content: center;
+} */
+
+
+
+/* .uBaslik{
+    
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
+
+.lorem1{
+    
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
+.container{
+  justify-content: flex-start;
+  display: grid;
+  background-color: aquamarine;
+}
+
+
+
+li:hover {
+    background-color: yellow;
+   
+  }
+
+  p:hover {
+    background-color: rgb(7, 132, 177);
+    
+  } */
+
